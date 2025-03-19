@@ -34,7 +34,7 @@ The Mobile Sales Dashboard is an interactive Power BI report designed to analyze
 - Supported inventory and financial planning based on sales trends
 
 ## Dashboard Preview
-![Mob sales dashboard](https://github.com/user-attachments/assets/371a5fc3-f86f-4fa1-85bf-da3319623105)
+![Mobile Sales Dashboard](https://github.com/user-attachments/assets/e74bfbaa-0655-4e35-884e-a494a84a9e81)
 
 ![Mob sales MTD,QTD,YTD Calc](https://github.com/user-attachments/assets/ab2730a2-321a-43b8-8eb8-e2ee4a952b0e)
 
